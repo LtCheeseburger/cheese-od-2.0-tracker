@@ -9,7 +9,7 @@ body{margin-top:20px;
         z-index: 1;
         border-radius: 15px;
         -webkit-box-shadow: 0 0.25rem 1rem 0 rgba(47, 91, 234, 0.125);
-        box-shadow: -.5rem 1rem 1rem 0 #313131d7;
+        box-shadow: -.5rem 1rem 1rem 0 rgba(44, 44, 44, 0.843);
     }
     .single_advisor_profile .advisor_thumb {
         position: relative;
